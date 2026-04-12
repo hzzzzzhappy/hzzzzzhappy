@@ -9,6 +9,4 @@ My research interests encompass point clouds, anomaly detection, VLM-related top
 
 You may be interested in the multiple repositories I maintain. Should you have any suggestions, please do not hesitate to contact me.
 
-:3
-
-:)
+: )
